@@ -44,7 +44,7 @@ anime on Android. It brings together a catalog powered by **AniList**, personal 
 watch-history, smart search, and a player built for binge-friendly navigation.
 
 This repository is the project's showcase only — you'll find information, updates, and the APK
-download link here. The source code itself is not public.
+download link here. 
 
 ## Features
 
