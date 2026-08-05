@@ -44,7 +44,7 @@ animes no Android. Ele reúne um catálogo integrado ao **AniList**, listas pess
 assistidos, busca inteligente e um player com controles pensados para maratonar sem fricção.
 
 Este repositório é apenas a vitrine do projeto: aqui você encontra informações, novidades e o
-link para baixar o APK. O código-fonte não é público.
+link para baixar o APK. 
 
 ## Recursos
 
