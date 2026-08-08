@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.0/AniVerseTV.apk">
+  <a href="https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.2/AniVerseTV-0.1.2-Ne-Ki.apk">
     <img src="https://img.shields.io/badge/Download_APK-8979F2?style=for-the-badge&logo=android&logoColor=white" alt="Download the AniVerseTV APK" />
   </a>
 </p>
@@ -65,16 +65,29 @@ download link here.
 - **Multiple sources:** episodes are resolved from several providers (such as KickAss and other
   compatible sources), with automatic fallback when a source is unavailable.
 
+## Downloads
+
+| Platform | Version | Codename | Download |
+| --- | --- | --- | --- |
+| Android Mobile | **0.1.2** | Ne · Ki | [Download APK](https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.2/AniVerseTV-0.1.2-Ne-Ki.apk) |
+| Android Mobile | 0.1.1 | Legacy | [Download APK](https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.1/AniVerseTV-v0.1.1.apk) |
+| Android Mobile | 0.1.0 | Legacy | [Download APK](https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.0/AniVerseTV.apk) |
+| Android TV | Future release | — | In development |
+| Google TV | Future release | — | Planned |
+| Fire TV | Future release | — | Planned |
+
+Use the latest Mobile build unless you need an older version for compatibility testing. TV packages will receive separate download buttons when official builds are available.
+
 ## Install
 
 1. Download the latest APK from the button below, or from the [Releases](https://github.com/AniverseTV/AniverseTV./releases/latest) tab.
-2. Open the `AniVerseTV.apk` file. If Android asks, allow installs from unknown sources for the
+2. Open the `AniVerseTV-0.1.2-Ne-Ki.apk` file. If Android asks, allow installs from unknown sources for the
    app you used to download it (browser or file manager).
 3. Open AniVerseTV and start exploring — no account required.
 
 <p align="center">
-  <a href="https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.0/AniVerseTV.apk">
-    <img src="https://img.shields.io/badge/Download_AniVerseTV.apk-8979F2?style=for-the-badge&logo=android&logoColor=white" alt="Download AniVerseTV.apk" />
+  <a href="https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.2/AniVerseTV-0.1.2-Ne-Ki.apk">
+    <img src="https://img.shields.io/badge/Download_0.1.2_Ne_Ki-8979F2?style=for-the-badge&logo=android&logoColor=white" alt="Download AniVerseTV 0.1.2 Ne Ki" />
   </a>
 </p>
 
@@ -145,7 +158,7 @@ Catalog metadata (synopses, ratings, genres, artwork, and airing status) is sync
 
 ## Roadmap
 
-- [ ] **English language** support in the app UI.
+- [x] **Multilingual interface** with downloadable language models.
 - [ ] **TV version** release (Android TV / Fire TV), building on the Compose for TV foundation
       already in place.
 - [x] Mobile version (available for download on this page).

@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.0/AniVerseTV.apk">
+  <a href="https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.2/AniVerseTV-0.1.2-Ne-Ki.apk">
     <img src="https://img.shields.io/badge/Baixar_APK-8979F2?style=for-the-badge&logo=android&logoColor=white" alt="Baixar o APK do AniVerseTV" />
   </a>
 </p>
@@ -65,16 +65,29 @@ link para baixar o APK.
 - **Múltiplas fontes:** resolução de episódios a partir de diferentes provedores (como KickAss e
   outros compatíveis), com fallback automático quando uma fonte está indisponível.
 
+## Downloads
+
+| Plataforma | Versão | Codinome | Download |
+| --- | --- | --- | --- |
+| Android Mobile | **0.1.2** | Ne · Ki | [Baixar APK](https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.2/AniVerseTV-0.1.2-Ne-Ki.apk) |
+| Android Mobile | 0.1.1 | Legado | [Baixar APK](https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.1/AniVerseTV-v0.1.1.apk) |
+| Android Mobile | 0.1.0 | Legado | [Baixar APK](https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.0/AniVerseTV.apk) |
+| Android TV | Versão futura | — | Em desenvolvimento |
+| Google TV | Versão futura | — | Planejada |
+| Fire TV | Versão futura | — | Planejada |
+
+Use a versão Mobile mais recente, salvo quando precisar de uma versão antiga para testes de compatibilidade. Os pacotes para TV receberão botões próprios quando existirem builds oficiais.
+
 ## Instalação
 
 1. Baixe o APK mais recente pelo botão abaixo ou na aba [Releases](https://github.com/AniverseTV/AniverseTV./releases/latest).
-2. Abra o arquivo `AniVerseTV.apk` e, se o Android pedir, permita a instalação de apps de fontes
+2. Abra o arquivo `AniVerseTV-0.1.2-Ne-Ki.apk` e, se o Android pedir, permita a instalação de apps de fontes
    desconhecidas para o app usado no download (navegador ou gerenciador de arquivos).
 3. Abra o AniVerseTV e comece a explorar — não é necessário criar conta para usar o app.
 
 <p align="center">
-  <a href="https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.0/AniVerseTV.apk">
-    <img src="https://img.shields.io/badge/Baixar_AniVerseTV.apk-8979F2?style=for-the-badge&logo=android&logoColor=white" alt="Baixar AniVerseTV.apk" />
+  <a href="https://github.com/AniverseTV/AniverseTV./releases/download/v0.1.2/AniVerseTV-0.1.2-Ne-Ki.apk">
+    <img src="https://img.shields.io/badge/Baixar_0.1.2_Ne_Ki-8979F2?style=for-the-badge&logo=android&logoColor=white" alt="Baixar AniVerseTV 0.1.2 Ne Ki" />
   </a>
 </p>
 
