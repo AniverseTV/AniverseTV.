@@ -165,6 +165,8 @@ Catalog metadata (synopses, ratings, genres, artwork, and airing status) is sync
 
 ## Community & support
 
+Join the [official AniVerseTV Discord community](https://discord.gg/qZw8TmVJx) for announcements, release notes, English and Portuguese discussions, support, suggestions, and bug reports.
+
 Found a bug or have a suggestion? Open an [issue on GitHub](https://github.com/AniverseTV/AniverseTV./issues/new)
 describing the expected behavior, what happened, and, if possible, your device model and Android
 version.

@@ -164,6 +164,8 @@ sincronizado a partir do **AniList**.
 
 ## Comunidade e suporte
 
+Entre na [comunidade oficial do AniVerseTV no Discord](https://discord.gg/qZw8TmVJx) para acompanhar anúncios, notas de versões, discussões em português e inglês, suporte, sugestões e relatos de bugs.
+
 Encontrou um problema ou tem uma sugestão? Abra uma [issue no GitHub](https://github.com/AniverseTV/AniverseTV./issues/new)
 descrevendo o comportamento esperado, o que aconteceu e, se possível, o modelo do seu
 aparelho e a versão do Android.
